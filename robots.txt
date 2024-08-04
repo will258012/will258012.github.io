@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /donate/weixinpay.jpg
+Disallow: /donate/Alipay.jpg
+
+Sitemap: https://willuuu.cn.eu.org/sitemap.xml
