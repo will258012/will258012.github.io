@@ -1,5 +1,6 @@
 # Donate
-### [中文版](zh-cn.md)
+
+### EN / [中文](zh-cn.md)
 
 ## Thank you!
 

@@ -1,5 +1,6 @@
 # 赞助
-### [English version](index.md)
+
+### [EN](index.md) / 中文
 
 ## 谢谢您！
 <div style="display: flex; flex-direction: row;">
